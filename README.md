@@ -1,4 +1,5 @@
 🔍 Exploring India's Job Market: Insights from LinkedIn Data 📊:
+<br>
 ℹ️ Delving deeper into the Indian job market, here's an enriched analysis of key trends and dynamics:
 📊 Overall Job Postings and Applications:
 726 job postings across 25 states, 104 cities, and 406 unique job titles, with 86K total applications.
