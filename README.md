@@ -32,4 +32,11 @@ The word cloud highlights key terms like "systems," "experience," "knowledge," "
 
 ## Implications
 These insights offer invaluable guidance for job seekers, employers, and industry analysts, aiding strategic decision-making and talent acquisition efforts in the ever-evolving job market. By understanding the distribution of applications, top companies, in-demand skills, and seasonal trends, stakeholders can make informed decisions and navigate the dynamic landscape of the Indian job market more effectively.
+
+
+![1ppt](https://github.com/Lakshmi2411/Linkedin-Job-Analysis/assets/55243829/bed0205f-a700-41e5-8b66-fcbaeca69c0e)
+![2ppt](https://github.com/Lakshmi2411/Linkedin-Job-Analysis/assets/55243829/b48d4a37-f312-414f-9de2-b67685986b32)
+![3ppt](https://github.com/Lakshmi2411/Linkedin-Job-Analysis/assets/55243829/78446e58-be9e-4f92-92d5-2f37bfaaaec8)
+![44ppt](https://github.com/Lakshmi2411/Linkedin-Job-Analysis/assets/55243829/0c1f9802-a9f2-42f3-8515-1a0b54a45003)
 ![5ppt](https://github.com/Lakshmi2411/Linkedin-Job-Analysis/assets/55243829/0a64f8df-72dc-466b-96ce-c348309dc126)
+
